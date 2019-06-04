@@ -1,19 +1,19 @@
 {
   "name": "ooni",
   "version": "1.0.0",
-  "description": "OONI API interactions",
+  "description": "ria_data_node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/kinuthiaduncan/ooni_apisearch.git"
+    "url": "git+ssh://git@bitbucket.org/kinuthiaduncan/ria_data_node.git"
   },
   "keywords": [
     "OONI"
   ],
   "author": "kinuthiaduncan@gmail.com",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/kinuthiaduncan/ooni_apisearch#readme"
+  "homepage": "https://bitbucket.org/kinuthiaduncan/ria_data_node/src/master/Readme.md"
 }
