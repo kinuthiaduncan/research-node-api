@@ -15,5 +15,13 @@
   ],
   "author": "kinuthiaduncan@gmail.com",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/kinuthiaduncan/ria_data_node/src/master/Readme.md"
+  "homepage": "https://bitbucket.org/kinuthiaduncan/ria_data_node/src/master/Readme.md",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "es6-promise": "^4.2.6",
+    "express": "^4.17.1",
+    "google-trends-api": "^4.9.0",
+    "path": "^0.12.7"
+  }
 }
