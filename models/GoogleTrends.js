@@ -1,6 +1,6 @@
 const googleTrends = require('google-trends-api');
 
-let interestOverTime = function (keyword, startTime, endTime, geo, req, res, next) {
+let interestOverTime = function (keyword, startTime, endTime, geo) {
     let data = {
         keyword: keyword,
         startTime: startTime,
